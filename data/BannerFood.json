@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Bibimbap",
+      "image": "https://i.postimg.cc/j28HYpCW/vaishnav-chogale-f-U5-WBTXa-Y-unsplash.jpg",
+      "description": "Bibimbap is a popular Korean rice bowl mixed with vegetables, chili pepper paste, soy sauce, and a raw or fried egg."
+    },
+    {
+      "id": 2,
+      "name": "Bulgogi",
+      "image": "https://i.postimg.cc/XqNSXCLZ/chicken-fried-hot-pot-with-spicy-sauce-korean-style.jpg",
+      "description": "Bulgogi is a Korean grilled dish made with thinly sliced marinated beef or pork, cooked on a barbecue or stove-top griddle."
+    },
+    {
+      "id": 3,
+      "name": "Japchae",
+      "image": "https://i.postimg.cc/GtXKK8Cs/korean-instant-noodle-tteokbokki-korean-spicy-sauce-ancient-food.jpg",
+      "description": "Japchae is a Korean stir-fried noodle dish made with sweet potato starch noodles, vegetables, beef, and soy sauce."
+    },
+    {
+      "id": 4,
+      "name": "Kimchi",
+      "image": "https://i.postimg.cc/C1gVTtfs/kimchi-ready-eat-bowl.jpg",
+      "description": "Kimchi is a traditional Korean side dish made from salted and fermented vegetables, usually napa cabbage and Korean radish, with a variety of seasonings."
+    },
+    {
+      "id": 5,
+      "name": "Kimbap",
+      "image": "https://i.postimg.cc/zX7g6Z48/korean-food-kim-bap-steamed-rice-with-vegetables-seaweed.jpg",
+      "description": "Kimbap is a Korean seaweed rice roll stuffed with vegetables, egg, and meat, served sliced into bite-size pieces."
+    },
+    {
+      "id": 6,
+      "name": "Samgyeopsal",
+      "image": "https://i.postimg.cc/50Ptpb6R/top-view-nachos-with-cheese-with-spices-sauce-croutons-table.jpg",
+      "description": "Samgyeopsal is a Korean grilled pork belly dish that is usually grilled at the table and served with lettuce leaves and a variety of condiments."
+    },
+    {
+      "id": 7,
+      "name": "Tteokbokki",
+      "image": "https://i.postimg.cc/DfXZ1k7B/spicy-pork-with-vegetables-pan.jpg",
+      "description": "Tteokbokki is a popular Korean street food made with chewy rice cakes, fish cakes, and a spicy red pepper sauce."
+    },
+    {
+      "id": 8,
+      "name": "Haemul Pajeon",
+      "image": "https://i.imgur.com/R3qVCxc.jpg",
+      "description": "Haemul Pajeon is a savory Korean pancake made with scallions and seafood such as shrimp, squid, and oysters."
+    }
+  ]
+  
