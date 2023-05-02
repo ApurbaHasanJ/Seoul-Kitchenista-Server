@@ -1,6 +1,11 @@
 const express = require('express');
 const app = express();
+const cors = require('cors');
 const port = process.env.PORT || 5000;
+
+// Enable CORS middleware
+app.use(cors());
+  
 
 const bannerFood = require('./data/BannerFood.json')
 
