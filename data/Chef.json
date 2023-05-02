@@ -1,0 +1,44 @@
+[
+    {
+        "chef_name": "Kim Yoon-ju",
+        "experience": "10 years",
+        "num_recipes": 25,
+        "likes": 12000,
+        "photo": "https://example.com/kim_yoon_ju.jpg"
+    },
+    {
+        "chef_name": "Park Min-woo",
+        "experience": "7 years",
+        "num_recipes": 18,
+        "likes": 8000,
+        "photo": "https://example.com/park_min_woo.jpg"
+    },
+    {
+        "chef_name": "Lee Ji-hoon",
+        "experience": "12 years",
+        "num_recipes": 35,
+        "likes": 15000,
+        "photo": "https://example.com/lee_ji_hoon.jpg"
+    },
+    {
+        "chef_name": "Choi Eun-ji",
+        "experience": "5 years",
+        "num_recipes": 12,
+        "likes": 6000,
+        "photo": "https://example.com/choi_eun_ji.jpg"
+    },
+    {
+        "chef_name": "Kim Sung-min",
+        "experience": "8 years",
+        "num_recipes": 20,
+        "likes": 10000,
+        "photo": "https://example.com/kim_sung_min.jpg"
+    },
+    {
+        "chef_name": "Han Mi-sook",
+        "experience": "15 years",
+        "num_recipes": 40,
+        "likes": 18000,
+        "photo": "https://example.com/han_mi_sook.jpg"
+    }
+]
