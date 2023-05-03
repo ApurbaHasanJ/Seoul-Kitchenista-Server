@@ -1,44 +1,422 @@
 [
     {
+        "id": 1,
         "chef_name": "Kim Yoon-ju",
         "experience": "10 years",
         "num_recipes": 25,
         "likes": 12000,
-        "photo": "https://example.com/kim_yoon_ju.jpg"
+        "photo": "https://i.postimg.cc/Rh9X5rSB/portrait-smiling-chef-uniform.jpg",
+        "recipes": [
+            {
+                "id": 1,
+                "name": "Bibimbap",
+                "description": "A Korean mixed rice dish topped with meat, vegetables, and egg.",
+                "photo": "https://i.postimg.cc/j28HYpCW/vaishnav-chogale-f-U5-WBTXa-Y-unsplash.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Korean Fried Chicken",
+                "description": "Crispy and spicy fried chicken dish popular in Korea.",
+                "photo": "https://img.freepik.com/free-photo/fried-chicken-tendon-serve-with-sauce_1150-38133.jpg?w=1060&t=st=1683094917~exp=1683095517~hmac=44f0f52fcc90ae1add2f4003ca04532feca13be613f5d9b64e1e56f1a12774f0"
+            },
+            {
+                "id": 3,
+                "name": "Japchae",
+                "description": "A Korean dish made with sweet potato glass noodles stir-fried with vegetables and meat.",
+                "photo": "https://i.postimg.cc/GtXKK8Cs/korean-instant-noodle-tteokbokki-korean-spicy-sauce-ancient-food.jpg"
+            },
+            {
+                "id": 4,
+                "name": "Kimchi Fried Rice",
+                "description": "A Korean fried rice dish made with kimchi, bacon, and vegetables.",
+                "photo": "https://img.freepik.com/free-photo/american-shrimp-fried-rice-served-with-chili-fish-sauce-thai-food_1150-26576.jpg?w=1060&t=st=1683095114~exp=1683095714~hmac=3ecaaceab8e3a2f4ce58b0ffe2b5cda50cb0c0073128f737b60c19004ed7afba"
+            },
+            {
+                "id": 5,
+                "name": "Spicy Pork Bulgogi",
+                "description": "A spicy Korean pork dish marinated in a spicy sauce and grilled.",
+                "photo": "https://img.freepik.com/free-photo/delicious-carrot-beef-brisket-casserole_1205-12295.jpg?w=1060&t=st=1683095173~exp=1683095773~hmac=3a032d818c159e80e4fed0b09677931e6be7362265f371866d399c4d51df025d"
+            },
+            {
+                "id": 6,
+                "name": "Korean Seafood Pancake",
+                "description": "A savory pancake made with seafood and vegetables.",
+                "photo": "https://img.freepik.com/free-photo/eggs-bacon-waffles_1203-3429.jpg?w=1060&t=st=1683095258~exp=1683095858~hmac=05f432224d3c166629e3b19121ea0c91e480a952802cc1dd9e0517991a6d6b18"
+            },
+            {
+                "id": 7,
+                "name": "Bulgogi",
+                "description": "A Korean dish made with marinated beef, grilled or stir-fried.",
+                "photo": "https://i.postimg.cc/XqNSXCLZ/chicken-fried-hot-pot-with-spicy-sauce-korean-style.jpg"
+            },
+            {
+                "id": 8,
+                "name": "Tteokbokki",
+                "description": "A Korean spicy rice cake dish with fish cakes and vegetables.",
+                "photo": "https://img.freepik.com/free-photo/korean-instant-noodle-tteokbokki-korean-spicy-sauce-ancient-food_1150-43005.jpg?w=1060&t=st=1683095361~exp=1683095961~hmac=50fd9f22c35cee9e74405421a2bed133e0a3f3c969336833ca86c0dde08a344c"
+            },
+            {
+                "id": 9,
+                "name": "Korean Army Stew",
+                "description": "A spicy Korean stew made with Spam, sausages, ramen noodles, and vegetables.",
+                "photo": "https://img.freepik.com/free-photo/side-view-dolma-stuffed-grape-leaves-with-ground-meat-onion-greens_141793-4878.jpg?w=1060&t=st=1683095424~exp=1683096024~hmac=6b3007b264d7447158f086d93cce518c94acd3c35f84472b5cd733026292a040"
+            },
+            {
+                "id": 10,
+                "name": "Haemul Pajeon",
+                "description": "A savory pancake made with scallions and seafood.",
+                "photo": "https://i.postimg.cc/Kvv09gNY/sushi-set-with-various-filling.jpg"
+            }
+        ]
     },
     {
+        "id": 2,
         "chef_name": "Park Min-woo",
         "experience": "7 years",
         "num_recipes": 18,
         "likes": 8000,
-        "photo": "https://example.com/park_min_woo.jpg"
+        "photo": "https://i.postimg.cc/LsTy9WrB/lasse-bergqvist-TYj7ey6xn9-M-unsplash.jpg",
+        "recipes": [
+            {
+                "id": 11,
+                "name": "Korean BBQ Beef",
+                "description": "Thinly sliced beef marinated in a sweet and savory sauce and grilled.",
+                "photo": "https://img.freepik.com/free-photo/plate-braised-pork-feet_1205-10068.jpg?w=1060&t=st=1683095791~exp=1683096391~hmac=2836055c0e38a01f97adadda868430d4e4f1a015a81b11538db93c38f62d7158"
+            },
+            {
+                "id": 12,
+                "name": "Kimchi Stew",
+                "description": "A spicy Korean stew made with kimchi, pork, and tofu.",
+                "photo": "https://img.freepik.com/free-photo/kimchi-jikae-kimchi-soup-ready-eat-bowl_1150-42852.jpg?w=1060&t=st=1683095844~exp=1683096444~hmac=a704192a75a2f2a4dac6c8458c5af70557844aaacf5ccf26ff4ab382da9d5181"
+            },
+            {
+                "id": 13,
+                "name": "Dakgangjeong",
+                "description": "Korean-style crispy fried chicken bites coated in a sweet and spicy sauce.",
+                "photo": "https://img.freepik.com/free-photo/chicken-fried-hot-pot-with-spicy-sauce-korean-style_1150-42867.jpg?w=1060&t=st=1683095919~exp=1683096519~hmac=1c3ff8bf9081306c65e222388c4aff5c37c04170f27c3507967b8c122d390579"
+            },
+            {
+                "id": 14,
+                "name": "Gamjatang",
+                "description": "A hearty Korean pork bone soup with potatoes and vegetables.",
+                "photo": "https://img.freepik.com/free-photo/gourmet-meat-veggie-lunch-wooden-table-generated-by-ai_188544-10723.jpg?w=1380&t=st=1683095981~exp=1683096581~hmac=2c1e2ec99fb9d1cd9072d248b914ea09f3c9057ff38e3725a77bea5cc1cdc497"
+            },
+            {
+                "id": 15,
+                "name": "Korean Style Pork Belly",
+                "description": "Thinly sliced pork belly marinated in a sweet and savory sauce and grilled.",
+                "photo": "https://img.freepik.com/free-photo/plate-braised-pork-feet_1205-11124.jpg?w=1060&t=st=1683096020~exp=1683096620~hmac=f3f5a7ba9e74a6e77a938ca0b694636be5cd934045886300a592627d24a5603b"
+            },
+            {
+                "id": 16,
+                "name": "Dubu Kimchi",
+                "description": "A spicy Korean dish made with stir-fried kimchi and tofu.",
+                "photo": "https://img.freepik.com/free-photo/kimchi-ready-eat-bowl_1150-42857.jpg?w=1060&t=st=1683096095~exp=1683096695~hmac=9c42309d7f0f4dd902538067e26ca6e7836fa45708e0c2e6f321bd7051dac5f0"
+            },
+            {
+                "id": 17,
+                "name": "Gimbap",
+                "description": "A Korean dish made with steamed rice and various fillings, rolled in seaweed.",
+                "photo": "https://img.freepik.com/free-photo/top-view-stuffed-eggplant-rolls-white-plate-different-spices-adjika-small-bowls-notebook-grey-background-free-place_140725-111078.jpg?w=1060&t=st=1683096224~exp=1683096824~hmac=57230d96f4f358e55d57fe4e9721b40f38d686fd68ea37dd1b700940e44994e5"
+            },
+            {
+                "id": 18,
+                "name": "Jjajangmyeon",
+                "description": "A Korean Chinese-style noodle dish with a thick black bean sauce.",
+                "photo": "https://img.freepik.com/free-photo/thai-pad-with-vegetable-king-prawns-beef-with-soya-sauce-wooden-table_23-2148093067.jpg?w=1060&t=st=1683096379~exp=1683096979~hmac=e33e9130e33dde3930a9e68b225739ba7c2a4bffc56f173c36cf834f928d5776"
+            },
+            {
+                "id": 19,
+                "name": "Ojingeo Bokkeum",
+                "description": "A spicy Korean stir-fried squid dish with vegetables.",
+                "photo": "https://img.freepik.com/free-photo/top-view-delicious-meat-soup-with-greens-potatoes-dark-desk_140725-76538.jpg?w=1060&t=st=1683096445~exp=1683097045~hmac=59fcd1b6045b369a9a318284e5ce4f3b66c9328c89c336db8178f26d30f8e004"
+            },
+            {
+                "id": 20,
+                "name": "Soondubu Jjigae",
+                "description": "A spicy Korean stew made with soft tofu, seafood, and vegetables.",
+                "photo": "https://img.freepik.com/free-photo/horizontal-shot-soup-black-bowl-some-eggs-wooden-chopsticks_181624-28649.jpg?w=1060&t=st=1683096515~exp=1683097115~hmac=e1c7da05cf7b910d273005810f4a71384ffba3c331526e0f914c175542ff5ca5"
+            }
+        ]
     },
     {
+        "id": 3,
         "chef_name": "Lee Ji-hoon",
         "experience": "12 years",
         "num_recipes": 35,
         "likes": 15000,
-        "photo": "https://example.com/lee_ji_hoon.jpg"
+        "photo": "https://i.postimg.cc/rsB61byR/front-view-female-chef-chopping-greens.jpg",
+        "recipes": [
+            {
+                "id": 21,
+                "name": "Korean Beef Short Ribs",
+                "description": "Tender, juicy beef short ribs marinated in a sweet and savory sauce.",
+                "photo": "https://img.freepik.com/free-photo/grilled-lamb-chop-steak_74190-2789.jpg?w=1060&t=st=1683096640~exp=1683097240~hmac=515bf26c67ea9b629a47e530804c6beb23f92fe5bbca5bc1b95df418ffac0896"
+            },
+            {
+                "id": 22,
+                "name": "Bulgogi Tacos",
+                "description": "A fusion of Korean and Mexican cuisine, these tacos feature bulgogi beef and kimchi slaw.",
+                "photo": "https://img.freepik.com/free-photo/pita-stuffed-with-chicken-tomato-lettuce_2829-10670.jpg?w=1060&t=st=1683096844~exp=1683097444~hmac=a1a0b1201f710d3a3fd28eab889b8190b12b5575896c0c39ca07f1564a1e1ff6"
+            },
+            {
+                "id": 23,
+                "name": "Spicy Seafood Soup",
+                "description": "A hearty soup made with a variety of seafood and a spicy broth.",
+                "photo": "https://img.freepik.com/free-photo/thai-food-tom-yum-seafood-seafood-spicy-soup_1150-38147.jpg?w=1060&t=st=1683096887~exp=1683097487~hmac=baec6dd79ccb1ebb8fb4de694f527173190ae3307f33966085b32cff5746fb41"
+            },
+            {
+                "id": 24,
+                "name": "Stir-Fried Beef and Vegetables",
+                "description": "A classic Korean dish made with marinated beef and a variety of colorful vegetables.",
+                "photo": "https://img.freepik.com/free-photo/stir-frying-beef-with-sweet-peppers-green-beans_2829-20102.jpg?w=1060&t=st=1683096980~exp=1683097580~hmac=4d9dc1ab398add384c2115f7617b72688b870d1be246c50ec8b6564f7fa4a70d"
+            },
+            {
+                "id": 25,
+                "name": "Kimchi Stew",
+                "description": "A warming and flavorful stew made with kimchi, pork, and tofu.",
+                "photo": "https://img.freepik.com/free-photo/kimchi-jikae-kimchi-soup-ready-eat-bowl_1150-42852.jpg?w=1060&t=st=1683097043~exp=1683097643~hmac=a66c19473d2423f4c034a482250c34065a61c505859e7ebe6226ea494d6df5cf"
+            },
+            {
+                "id": 26,
+                "name": "Korean Fried Rice",
+                "description": "A delicious and easy-to-make fried rice dish with a Korean twist.",
+                "photo": "https://img.freepik.com/free-photo/american-shrimp-fried-rice-served-with-chili-fish-sauce-thai-food_1150-26584.jpg?w=1060&t=st=1683097089~exp=1683097689~hmac=49fb82d123c4094824ba0155e91a82ac472afa4f8c8d6b4a1f357cb24a1094ae"
+            },
+            {
+                "id": 27,
+                "name": "Korean Spicy Pork Belly",
+                "description": "Juicy and flavorful slices of pork belly marinated in a spicy sauce.",
+                "photo": "https://img.freepik.com/free-photo/delicious-carrot-beef-brisket-casserole_1205-12291.jpg?w=1060&t=st=1683097135~exp=1683097735~hmac=6854a22b15d78ba190ae162a2635c70f509d07fe7ff75e6df56390fe8d447791"
+            },
+            {
+                "id": 28,
+                "name": "Jjajangmyeon",
+                "description": "A popular Korean-Chinese noodle dish made with black bean sauce and vegetables.",
+                "photo": "https://img.freepik.com/free-photo/korean-instant-noodle-tteokbokki-korean-spicy-sauce-ancient-food_1150-43004.jpg?w=1060&t=st=1683097249~exp=1683097849~hmac=498fc5128bc2cf066c4543a2ca8299905224ebf8db67a9f9c585b0ddec6652b7"
+            },
+            {
+                "id": 29,
+                "name": "Korean Fried Chicken Wings",
+                "description": "Crispy and flavorful chicken wings coated in a spicy sauce.",
+                "photo": "https://img.freepik.com/free-photo/high-angle-shot-deliciously-cooked-chicken-wings-with-sesame-soy-sauce-table_181624-24153.jpg?w=1060&t=st=1683097291~exp=1683097891~hmac=35406b92ea5eb888f24ea119db5b1acf922d6fb9afbe9a1473e82f3239370872"
+            },
+            {
+                "id": 30,
+                "name": "Gamjatang",
+                "description": "A hearty Korean pork bone soup with potatoes and vegetables.",
+                "photo": "https://img.freepik.com/free-photo/gourmet-meat-veggie-lunch-wooden-table-generated-by-ai_188544-10723.jpg?w=1380&t=st=1683095981~exp=1683096581~hmac=2c1e2ec99fb9d1cd9072d248b914ea09f3c9057ff38e3725a77bea5cc1cdc497"
+            }
+        ]
     },
     {
+        "id": 4,
         "chef_name": "Choi Eun-ji",
         "experience": "5 years",
         "num_recipes": 12,
         "likes": 6000,
-        "photo": "https://example.com/choi_eun_ji.jpg"
+        "photo": "https://i.postimg.cc/4xpLMyP0/beautiful-woman-chef-image.jpg",
+        "recipes": [
+            {
+                "id": 31,
+                "name": "Bibimbap",
+                "description": "A Korean mixed rice dish topped with meat, vegetables, and egg.",
+                "photo": "https://i.postimg.cc/j28HYpCW/vaishnav-chogale-f-U5-WBTXa-Y-unsplash.jpg"
+            },
+            {
+                "id": 32,
+                "name": "Korean Fried Chicken",
+                "description": "Crispy and spicy fried chicken dish popular in Korea.",
+                "photo": "https://img.freepik.com/free-photo/fried-chicken-tendon-serve-with-sauce_1150-38133.jpg?w=1060&t=st=1683094917~exp=1683095517~hmac=44f0f52fcc90ae1add2f4003ca04532feca13be613f5d9b64e1e56f1a12774f0"
+            },
+            {
+                "id": 33,
+                "name": "Japchae",
+                "description": "A Korean dish made with sweet potato glass noodles stir-fried with vegetables and meat.",
+                "photo": "https://i.postimg.cc/GtXKK8Cs/korean-instant-noodle-tteokbokki-korean-spicy-sauce-ancient-food.jpg"
+            },
+            {
+                "id": 34,
+                "name": "Kimchi Fried Rice",
+                "description": "A Korean fried rice dish made with kimchi, bacon, and vegetables.",
+                "photo": "https://img.freepik.com/free-photo/american-shrimp-fried-rice-served-with-chili-fish-sauce-thai-food_1150-26576.jpg?w=1060&t=st=1683095114~exp=1683095714~hmac=3ecaaceab8e3a2f4ce58b0ffe2b5cda50cb0c0073128f737b60c19004ed7afba"
+            },
+            {
+                "id": 35,
+                "name": "Spicy Pork Bulgogi",
+                "description": "A spicy Korean pork dish marinated in a spicy sauce and grilled.",
+                "photo": "https://img.freepik.com/free-photo/delicious-carrot-beef-brisket-casserole_1205-12295.jpg?w=1060&t=st=1683095173~exp=1683095773~hmac=3a032d818c159e80e4fed0b09677931e6be7362265f371866d399c4d51df025d"
+            },
+            {
+                "id": 36,
+                "name": "Korean Seafood Pancake",
+                "description": "A savory pancake made with seafood and vegetables.",
+                "photo": "https://img.freepik.com/free-photo/eggs-bacon-waffles_1203-3429.jpg?w=1060&t=st=1683095258~exp=1683095858~hmac=05f432224d3c166629e3b19121ea0c91e480a952802cc1dd9e0517991a6d6b18"
+            },
+            {
+                "id": 37,
+                "name": "Bulgogi",
+                "description": "A Korean dish made with marinated beef, grilled or stir-fried.",
+                "photo": "https://i.postimg.cc/XqNSXCLZ/chicken-fried-hot-pot-with-spicy-sauce-korean-style.jpg"
+            },
+            {
+                "id": 38,
+                "name": "Tteokbokki",
+                "description": "A Korean spicy rice cake dish with fish cakes and vegetables.",
+                "photo": "https://img.freepik.com/free-photo/korean-instant-noodle-tteokbokki-korean-spicy-sauce-ancient-food_1150-43005.jpg?w=1060&t=st=1683095361~exp=1683095961~hmac=50fd9f22c35cee9e74405421a2bed133e0a3f3c969336833ca86c0dde08a344c"
+            },
+            {
+                "id": 39,
+                "name": "Korean Army Stew",
+                "description": "A spicy Korean stew made with Spam, sausages, ramen noodles, and vegetables.",
+                "photo": "https://img.freepik.com/free-photo/side-view-dolma-stuffed-grape-leaves-with-ground-meat-onion-greens_141793-4878.jpg?w=1060&t=st=1683095424~exp=1683096024~hmac=6b3007b264d7447158f086d93cce518c94acd3c35f84472b5cd733026292a040"
+            },
+            {
+                "id": 40,
+                "name": "Haemul Pajeon",
+                "description": "A savory pancake made with scallions and seafood.",
+                "photo": "https://i.postimg.cc/Kvv09gNY/sushi-set-with-various-filling.jpg"
+            }
+        ]
     },
     {
+        "id": 5,
         "chef_name": "Kim Sung-min",
         "experience": "8 years",
         "num_recipes": 20,
         "likes": 10000,
-        "photo": "https://example.com/kim_sung_min.jpg"
+        "photo": "https://i.postimg.cc/8z8DMFsX/front-view-young-male-cook-white-cape-yellow-background-white-color-cuisine-job-man-food-photo-kitch.jpg",
+        "recipes": [
+            {
+                "id": 41,
+                "name": "Korean BBQ Beef",
+                "description": "Thinly sliced beef marinated in a sweet and savory sauce and grilled.",
+                "photo": "https://img.freepik.com/free-photo/plate-braised-pork-feet_1205-10068.jpg?w=1060&t=st=1683095791~exp=1683096391~hmac=2836055c0e38a01f97adadda868430d4e4f1a015a81b11538db93c38f62d7158"
+            },
+            {
+                "id": 42,
+                "name": "Kimchi Stew",
+                "description": "A spicy Korean stew made with kimchi, pork, and tofu.",
+                "photo": "https://img.freepik.com/free-photo/kimchi-jikae-kimchi-soup-ready-eat-bowl_1150-42852.jpg?w=1060&t=st=1683095844~exp=1683096444~hmac=a704192a75a2f2a4dac6c8458c5af70557844aaacf5ccf26ff4ab382da9d5181"
+            },
+            {
+                "id": 43,
+                "name": "Dakgangjeong",
+                "description": "Korean-style crispy fried chicken bites coated in a sweet and spicy sauce.",
+                "photo": "https://img.freepik.com/free-photo/chicken-fried-hot-pot-with-spicy-sauce-korean-style_1150-42867.jpg?w=1060&t=st=1683095919~exp=1683096519~hmac=1c3ff8bf9081306c65e222388c4aff5c37c04170f27c3507967b8c122d390579"
+            },
+            {
+                "id": 44,
+                "name": "Gamjatang",
+                "description": "A hearty Korean pork bone soup with potatoes and vegetables.",
+                "photo": "https://img.freepik.com/free-photo/gourmet-meat-veggie-lunch-wooden-table-generated-by-ai_188544-10723.jpg?w=1380&t=st=1683095981~exp=1683096581~hmac=2c1e2ec99fb9d1cd9072d248b914ea09f3c9057ff38e3725a77bea5cc1cdc497"
+            },
+            {
+                "id": 45,
+                "name": "Korean Style Pork Belly",
+                "description": "Thinly sliced pork belly marinated in a sweet and savory sauce and grilled.",
+                "photo": "https://img.freepik.com/free-photo/plate-braised-pork-feet_1205-11124.jpg?w=1060&t=st=1683096020~exp=1683096620~hmac=f3f5a7ba9e74a6e77a938ca0b694636be5cd934045886300a592627d24a5603b"
+            },
+            {
+                "id": 46,
+                "name": "Dubu Kimchi",
+                "description": "A spicy Korean dish made with stir-fried kimchi and tofu.",
+                "photo": "https://img.freepik.com/free-photo/kimchi-ready-eat-bowl_1150-42857.jpg?w=1060&t=st=1683096095~exp=1683096695~hmac=9c42309d7f0f4dd902538067e26ca6e7836fa45708e0c2e6f321bd7051dac5f0"
+            },
+            {
+                "id": 47,
+                "name": "Gimbap",
+                "description": "A Korean dish made with steamed rice and various fillings, rolled in seaweed.",
+                "photo": "https://img.freepik.com/free-photo/top-view-stuffed-eggplant-rolls-white-plate-different-spices-adjika-small-bowls-notebook-grey-background-free-place_140725-111078.jpg?w=1060&t=st=1683096224~exp=1683096824~hmac=57230d96f4f358e55d57fe4e9721b40f38d686fd68ea37dd1b700940e44994e5"
+            },
+            {
+                "id": 48,
+                "name": "Jjajangmyeon",
+                "description": "A Korean Chinese-style noodle dish with a thick black bean sauce.",
+                "photo": "https://img.freepik.com/free-photo/thai-pad-with-vegetable-king-prawns-beef-with-soya-sauce-wooden-table_23-2148093067.jpg?w=1060&t=st=1683096379~exp=1683096979~hmac=e33e9130e33dde3930a9e68b225739ba7c2a4bffc56f173c36cf834f928d5776"
+            },
+            {
+                "id": 49,
+                "name": "Ojingeo Bokkeum",
+                "description": "A spicy Korean stir-fried squid dish with vegetables.",
+                "photo": "https://img.freepik.com/free-photo/top-view-delicious-meat-soup-with-greens-potatoes-dark-desk_140725-76538.jpg?w=1060&t=st=1683096445~exp=1683097045~hmac=59fcd1b6045b369a9a318284e5ce4f3b66c9328c89c336db8178f26d30f8e004"
+            },
+            {
+                "id": 50,
+                "name": "Soondubu Jjigae",
+                "description": "A spicy Korean stew made with soft tofu, seafood, and vegetables.",
+                "photo": "https://img.freepik.com/free-photo/horizontal-shot-soup-black-bowl-some-eggs-wooden-chopsticks_181624-28649.jpg?w=1060&t=st=1683096515~exp=1683097115~hmac=e1c7da05cf7b910d273005810f4a71384ffba3c331526e0f914c175542ff5ca5"
+            }
+        ]
     },
     {
+        "id": 6,
         "chef_name": "Han Mi-sook",
         "experience": "15 years",
         "num_recipes": 40,
         "likes": 18000,
-        "photo": "https://example.com/han_mi_sook.jpg"
+        "photo": "https://i.postimg.cc/59TMWH59/male-chef-uniform-hat-apron-adding-spice-into-food-kitchen.jpg",
+        "recipes": [
+            {
+                "id": 51,
+                "name": "Korean Beef Short Ribs",
+                "description": "Tender, juicy beef short ribs marinated in a sweet and savory sauce.",
+                "photo": "https://img.freepik.com/free-photo/grilled-lamb-chop-steak_74190-2789.jpg?w=1060&t=st=1683096640~exp=1683097240~hmac=515bf26c67ea9b629a47e530804c6beb23f92fe5bbca5bc1b95df418ffac0896"
+            },
+            {
+                "id": 52,
+                "name": "Bulgogi Tacos",
+                "description": "A fusion of Korean and Mexican cuisine, these tacos feature bulgogi beef and kimchi slaw.",
+                "photo": "https://img.freepik.com/free-photo/pita-stuffed-with-chicken-tomato-lettuce_2829-10670.jpg?w=1060&t=st=1683096844~exp=1683097444~hmac=a1a0b1201f710d3a3fd28eab889b8190b12b5575896c0c39ca07f1564a1e1ff6"
+            },
+            {
+                "id": 53,
+                "name": "Spicy Seafood Soup",
+                "description": "A hearty soup made with a variety of seafood and a spicy broth.",
+                "photo": "https://img.freepik.com/free-photo/thai-food-tom-yum-seafood-seafood-spicy-soup_1150-38147.jpg?w=1060&t=st=1683096887~exp=1683097487~hmac=baec6dd79ccb1ebb8fb4de694f527173190ae3307f33966085b32cff5746fb41"
+            },
+            {
+                "id": 54,
+                "name": "Stir-Fried Beef and Vegetables",
+                "description": "A classic Korean dish made with marinated beef and a variety of colorful vegetables.",
+                "photo": "https://img.freepik.com/free-photo/stir-frying-beef-with-sweet-peppers-green-beans_2829-20102.jpg?w=1060&t=st=1683096980~exp=1683097580~hmac=4d9dc1ab398add384c2115f7617b72688b870d1be246c50ec8b6564f7fa4a70d"
+            },
+            {
+                "id": 55,
+                "name": "Kimchi Stew",
+                "description": "A warming and flavorful stew made with kimchi, pork, and tofu.",
+                "photo": "https://img.freepik.com/free-photo/kimchi-jikae-kimchi-soup-ready-eat-bowl_1150-42852.jpg?w=1060&t=st=1683097043~exp=1683097643~hmac=a66c19473d2423f4c034a482250c34065a61c505859e7ebe6226ea494d6df5cf"
+            },
+            {
+                "id": 56,
+                "name": "Korean Fried Rice",
+                "description": "A delicious and easy-to-make fried rice dish with a Korean twist.",
+                "photo": "https://img.freepik.com/free-photo/american-shrimp-fried-rice-served-with-chili-fish-sauce-thai-food_1150-26584.jpg?w=1060&t=st=1683097089~exp=1683097689~hmac=49fb82d123c4094824ba0155e91a82ac472afa4f8c8d6b4a1f357cb24a1094ae"
+            },
+            {
+                "id": 57,
+                "name": "Korean Spicy Pork Belly",
+                "description": "Juicy and flavorful slices of pork belly marinated in a spicy sauce.",
+                "photo": "https://img.freepik.com/free-photo/delicious-carrot-beef-brisket-casserole_1205-12291.jpg?w=1060&t=st=1683097135~exp=1683097735~hmac=6854a22b15d78ba190ae162a2635c70f509d07fe7ff75e6df56390fe8d447791"
+            },
+            {
+                "id": 58,
+                "name": "Jjajangmyeon",
+                "description": "A popular Korean-Chinese noodle dish made with black bean sauce and vegetables.",
+                "photo": "https://img.freepik.com/free-photo/korean-instant-noodle-tteokbokki-korean-spicy-sauce-ancient-food_1150-43004.jpg?w=1060&t=st=1683097249~exp=1683097849~hmac=498fc5128bc2cf066c4543a2ca8299905224ebf8db67a9f9c585b0ddec6652b7"
+            },
+            {
+                "id": 59,
+                "name": "Korean Fried Chicken Wings",
+                "description": "Crispy and flavorful chicken wings coated in a spicy sauce.",
+                "photo": "https://img.freepik.com/free-photo/high-angle-shot-deliciously-cooked-chicken-wings-with-sesame-soy-sauce-table_181624-24153.jpg?w=1060&t=st=1683097291~exp=1683097891~hmac=35406b92ea5eb888f24ea119db5b1acf922d6fb9afbe9a1473e82f3239370872"
+            },
+            {
+                "id": 60,
+                "name": "Gamjatang",
+                "description": "A hearty Korean pork bone soup with potatoes and vegetables.",
+                "photo": "https://img.freepik.com/free-photo/gourmet-meat-veggie-lunch-wooden-table-generated-by-ai_188544-10723.jpg?w=1380&t=st=1683095981~exp=1683096581~hmac=2c1e2ec99fb9d1cd9072d248b914ea09f3c9057ff38e3725a77bea5cc1cdc497"
+            }
+        ]
     }
 ]

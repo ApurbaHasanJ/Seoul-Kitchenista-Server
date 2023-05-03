@@ -12,12 +12,13 @@ const chef = require("./data/Chef.json");
 app.get("/", (req, res) => {
   res.send("Welcome");
 });
-// https://seoul-kitchenista-server-apurbahasanj.vercel.app/
 
+// Banner food
 app.get("/banner-food", (req, res) => {
   res.send(bannerFood);
 });
 
+// our chefs
 app.get('/chef', (req, res) => {
     res.send(chef);
 })
