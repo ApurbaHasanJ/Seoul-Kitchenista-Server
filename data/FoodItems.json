@@ -1,0 +1,86 @@
+[
+    {
+        "id": "1",
+        "name": "Bibimbap",
+        "price": 12.99,
+        "rating": 4.5,
+        "photo": "https://i.postimg.cc/j28HYpCW/vaishnav-chogale-f-U5-WBTXa-Y-unsplash.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Japchae",
+        "price": 14.99,
+        "rating": 4.8,
+        "photo": "https://i.postimg.cc/GtXKK8Cs/korean-instant-noodle-tteokbokki-korean-spicy-sauce-ancient-food.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Bulgogi",
+        "price": 17.99,
+        "rating": 4.2,
+        "photo": "https://img.freepik.com/free-photo/delicious-carrot-beef-brisket-casserole_1205-12295.jpg?w=1060&t=st=1683095173~exp=1683095773~hmac=3a032d818c159e80e4fed0b09677931e6be7362265f371866d399c4d51df025d"
+    },
+    {
+        "id": "4",
+        "name": "Kimchi",
+        "price": 5.99,
+        "rating": 4.6,
+        "photo": "https://img.freepik.com/free-photo/kimchi-jikae-kimchi-soup-ready-eat-bowl_1150-42852.jpg?w=1060&t=st=1683095844~exp=1683096444~hmac=a704192a75a2f2a4dac6c8458c5af70557844aaacf5ccf26ff4ab382da9d5181"
+    },
+    {
+        "id": "5",
+        "name": "Korean Style Pork Belly",
+        "price": 18.99,
+        "rating": 4.8,
+        "photo": "https://img.freepik.com/free-photo/plate-braised-pork-feet_1205-11124.jpg?w=1060&t=st=1683096020~exp=1683096620~hmac=f3f5a7ba9e74a6e77a938ca0b694636be5cd934045886300a592627d24a5603b"
+    },
+    {
+        "id": "6",
+        "name": "Dubu Kimchi",
+        "price": 10.99,
+        "rating": 4.3,
+        "photo": "https://img.freepik.com/free-photo/kimchi-ready-eat-bowl_1150-42857.jpg?w=1060&t=st=1683096095~exp=1683096695~hmac=9c42309d7f0f4dd902538067e26ca6e7836fa45708e0c2e6f321bd7051dac5f0"
+    },
+    {
+        "id": "7",
+        "name": "Gimbap",
+        "price": 13.99,
+        "rating": 4.7,
+        "photo": "https://img.freepik.com/free-photo/top-view-stuffed-eggplant-rolls-white-plate-different-spices-adjika-small-bowls-notebook-grey-background-free-place_140725-111078.jpg?w=1060&t=st=1683096224~exp=1683096824~hmac=57230d96f4f358e55d57fe4e9721b40f38d686fd68ea37dd1b700940e44994e5"
+    },
+    {
+        "id": "8",
+        "name": "Samgyeopsal",
+        "price": 19.99,
+        "rating": 4.2,
+        "photo": "https://img.freepik.com/free-photo/thai-pad-with-vegetable-king-prawns-beef-with-soya-sauce-wooden-table_23-2148093067.jpg?w=1060&t=st=1683096379~exp=1683096979~hmac=e33e9130e33dde3930a9e68b225739ba7c2a4bffc56f173c36cf834f928d5776"
+    },
+    {
+        "id": "9",
+        "name": "Galbi",
+        "price": 22.99,
+        "rating": 4.9,
+        "photo": "https://img.freepik.com/free-photo/top-view-delicious-meat-soup-with-greens-potatoes-dark-desk_140725-76538.jpg?w=1060&t=st=1683096445~exp=1683097045~hmac=59fcd1b6045b369a9a318284e5ce4f3b66c9328c89c336db8178f26d30f8e004"
+    },
+    {
+        "id": "10",
+        "name": "Bingsu",
+        "price": 8.99,
+        "rating": 4.4,
+        "photo": "https://img.freepik.com/free-photo/plate-braised-pork-feet_1205-11124.jpg?w=1060&t=st=1683096020~exp=1683096620~hmac=f3f5a7ba9e74a6e77a938ca0b694636be5cd934045886300a592627d24a5603b"
+    },
+    {
+        "id": "11",
+        "name": "Mandu",
+        "price": 11.99,
+        "rating": 4.2,
+        "photo": "https://img.freepik.com/free-photo/kimchi-ready-eat-bowl_1150-42857.jpg?w=1060&t=st=1683096095~exp=1683096695~hmac=9c42309d7f0f4dd902538067e26ca6e7836fa45708e0c2e6f321bd7051dac5f0"
+    },
+    {
+        "id": "12",
+        "name": "Sundubu-jjigae",
+        "price": 11.99,
+        "rating": 4.2,
+        "photo": "https://img.freepik.com/free-photo/thai-pad-with-vegetable-king-prawns-beef-with-soya-sauce-wooden-table_23-2148093067.jpg?w=1060&t=st=1683096379~exp=1683096979~hmac=e33e9130e33dde3930a9e68b225739ba7c2a4bffc56f173c36cf834f928d5776"
+    }
+]
