@@ -15,6 +15,9 @@ const chef = require("./data/Chef.json");
 // food items
 const foodItems = require("./data/FoodItems.json");
 
+// customers feedback 
+const feedback = require("./data/Feedback.json");
+
 app.get("/", (req, res) => {
   res.send("Welcome");
 });
@@ -31,6 +34,9 @@ app.get('/chef', (req, res) => {
 
 app.get('/food-items', (req, res) => {
   res.send(foodItems)
+})
+app.get('/feedback', (req, res) =>{
+  res.send(feedback)
 })
 
 
