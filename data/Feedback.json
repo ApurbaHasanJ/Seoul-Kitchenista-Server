@@ -2,72 +2,72 @@
     {
         "id": "1",
         "name": "Jessica Hernandez",
-        "photo": "https://example.com/jessica-hernandez.jpg",
-        "feedback": "I had an amazing experience at this restaurant! The food was delicious and the service was exceptional. I highly recommend the pasta dish and the tiramisu for dessert. Will definitely be coming back soon.",
+        "photo": "https://i.postimg.cc/RF89Ljyc/young-woman-with-round-glasses-yellow-sweater-1.jpg",
+        "feedback": "Amazing experience at this restaurant! The food was delicious and the service was exceptional.",
         "rating": 5,
         "job": "Marketing Manager"
     },
     {
         "id": "2",
         "name": "Samantha Patel",
-        "photo": "https://example.com/samantha-patel.jpg",
-        "feedback": "I had a fantastic dining experience at this restaurant. The food was excellent and the service was top-notch. The atmosphere was elegant and sophisticated, perfect for a special occasion. I highly recommend the lobster tail and the creme brulee for dessert. Can't wait to come back!",
+        "photo": "https://i.postimg.cc/W1td8nqw/close-up-portrait-young-bearded-man-white-shirt-jacket-posing-camera-with-broad-smile-isolated-gray.jpg",
+        "feedback": "Fantastic dining experience! Food was excellent and the service was top-notch.",
         "rating": 5,
         "job": "Lawyer"
     },
     {
         "id": "3",
         "name": "David Lee",
-        "photo": "https://example.com/david-lee.jpg",
-        "feedback": "The food was great and the staff were friendly and attentive. I especially enjoyed the seafood platter and the wine selection. Would recommend this restaurant to anyone looking for a nice night out.",
+        "photo": "https://i.postimg.cc/FsR8HdJB/portrait-handsome-european-male-student-has-gentle-smile-face-happy-hear-pleasant-news-stands-deligh.jpg",
+        "feedback": "Great food and friendly staff. Enjoyed the seafood platter and wine selection.",
         "rating": 4,
         "job": "Software Engineer"
     },
     {
         "id": "4",
         "name": "Jennifer Nguyen",
-        "photo": "https://example.com/jennifer-nguyen.jpg",
-        "feedback": "Had a lovely time at this restaurant. The atmosphere was cozy and welcoming, and the food was delicious. The steak was cooked perfectly and the mashed potatoes were so creamy. Definitely one of my new favorite spots in town.",
+        "photo": "https://i.postimg.cc/QxssJGMr/cheerful-curly-business-girl-wearing-glasses.jpg",
+        "feedback": "Lovely time at this restaurant. Steak was cooked perfectly and the mashed potatoes were so creamy.",
         "rating": 4,
         "job": "Graphic Designer"
     },
     {
         "id": "5",
         "name": "Michael Chen",
-        "photo": "https://example.com/michael-chen.jpg",
-        "feedback": "The restaurant has a great selection of food and drinks. The sushi was fresh and tasty, and the cocktails were well-made. The staff were friendly and provided excellent service throughout the evening.",
+        "photo": "https://i.postimg.cc/3J29XVcm/portrait-white-man-isolated.jpg",
+        "feedback": "Great selection of food and drinks. Sushi was fresh and tasty, and cocktails were well-made.",
         "rating": 4,
         "job": "Investment Analyst"
     },
     {
         "id": "6",
         "name": "Lisa Rodriguez",
-        "photo": "https://example.com/lisa-rodriguez.jpg",
-        "feedback": "The food was absolutely delicious and the presentation was beautiful. The staff were attentive and friendly, making for a wonderful dining experience. Highly recommend the grilled salmon and the chocolate cake!",
+        "photo": "https://i.postimg.cc/13PBJBkT/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-ta.jpg",
+        "feedback": "Absolutely delicious food and beautiful presentation. Highly recommend grilled salmon and chocolate cake!",
         "rating": 5,
         "job": "Journalist"
     },
     {
         "id": "7",
         "name": "Daniel Kim",
-        "photo": "https://example.com/daniel-kim.jpg",
-        "feedback": "The restaurant has a great atmosphere and the service was fantastic. The appetizers were delicious and the main courses did not disappoint. I highly recommend the duck dish and the mushroom risotto. Can't wait to come back!",
+        "photo": "https://i.postimg.cc/5NzvLJTS/worldface-ugandan-man-white-background.jpg",
+        "feedback": "Great atmosphere and fantastic service. Highly recommend duck dish and mushroom risotto.",
         "rating": 5,
         "job": "Architect"
     },
     {
         "id": "8",
         "name": "Emily Wong",
-        "photo": "https://example.com/emily-wong.jpg",
-        "feedback": "This is one of the best restaurants I've been to in a long time. The food was fresh and flavorful, and the service was impeccable. The staff were knowledgeable about the menu and made great recommendations. Definitely worth a visit!",
+        "photo": "https://i.postimg.cc/j5KvkXnC/happy-african-american-young-man-colorful-shirt-wearing-glasses-looking-camera-smiling-cheerfully.jpg",
+        "feedback": "One of the best restaurants I've been to in a long time. Food was fresh and flavorful, and service was impeccable.",
         "rating": 5,
         "job": "Product Manager"
     },
     {
         "id": "9",
         "name": "Juan Perez",
-        "photo": "https://example.com/juan-perez.jpg",
-        "feedback": "I had a great experience at this restaurant. The food was delicious and the portions were generous. The staff were friendly and accommodating, and the atmosphere was cozy and intimate. Will definitely be coming back!",
+        "photo": "https://i.postimg.cc/j23X2YgJ/indoor-portrait-displeased-discontent-upset-male-model-with-trendy-hairdo-mustache-beard-wears-round.jpg",
+        "feedback": "Great experience at this restaurant. Food was delicious and staff were friendly and accommodating.",
         "rating": 4,
         "job": "Teacher"
     }
