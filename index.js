@@ -32,9 +32,12 @@ app.get('/chef', (req, res) => {
     res.send(chef);
 })
 
+// Food items
 app.get('/food-items', (req, res) => {
   res.send(foodItems)
 })
+
+// feedback
 app.get('/feedback', (req, res) =>{
   res.send(feedback)
 })
